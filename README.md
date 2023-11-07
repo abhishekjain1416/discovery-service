@@ -6,6 +6,11 @@ Welcome to the Service Discovery with Netflix Eureka project! This service disco
 In a microservices architecture, services are distributed across multiple instances and can dynamically scale up or down based on demand. Keeping track of these services and their availability becomes a complex task. Netflix Eureka simplifies this challenge by providing a centralized service registry that allows services to register themselves and query the registry for information about other services.
 
 ## Architecture
+Overall Architecture of the E-Commerce Platform
+
+![architecture-E-Commerce Application drawio](https://github.com/abhishekjain1416/discovery-service/assets/142833334/11165903-8564-43ea-9839-ee4b13adc9b8)
+
+
 Here's a brief explanation of the architecture of a service discovery system using Netflix Eureka:
 
 ### Service Registry (Eureka Server)
