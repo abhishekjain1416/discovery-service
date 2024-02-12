@@ -27,3 +27,11 @@ replay_pid*
 target/
 .idea
 .vscode
+
+.factorypath
+.project
+.classpath
+.settings/
+.mvn/
+mvnw
+mvnw.cmd
